@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: darkmagenta;
+    padding: 10px;
+}
+nav .navbar-brand{
+    font-weight: bolder;
+}
+.bove{
+    background-color: darkmagenta;
+    color: white;
+}
+.hero{
+    margin-top: 60px;
+
+}
+
+.clone{
+    background-color: darkmagenta;
+    color: white;
+}
+.come{
+    border-radius: 50%;
+}
+.clean{
+    color: white;
+}
+.fa-graduation-cap{
+    color: darkmagenta;
+}
+.done{
+    color: darkmagenta;
+}
+.max{
+    background-color: darkmagenta;
+    color: white;
+}

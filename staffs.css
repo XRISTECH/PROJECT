@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: darkmagenta;
+    padding: 10px;
+}
+nav .navbar-brand{
+    font-weight: bolder;
+}
+.bold{
+    background-color: darkmagenta;
+}
+.clone{
+    background-color: darkmagenta;
+}
+.cover{
+    color: darkmagenta;
+    font-weight: 100px;
+}
+.aone{
+    color: darkmagenta;
+}
+.atwo{
+    color:darkmagenta;
+}
+.athree{
+    color: darkmagenta;
+}
+.afour{
+    color:darkmagenta;
+}
+.afive{
+    color: darkmagenta;
+}
+.asix{
+    color:darkmagenta;
+}
+.aseven{
+    color: darkmagenta;
+}
+.aeight{
+    color:darkmagenta;
+}
+.anine{
+    color:darkmagenta;
+}
+.max{
+    background-color: darkmagenta;
+    color: white;
+}

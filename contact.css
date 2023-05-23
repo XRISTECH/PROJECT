@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: darkmagenta;
+    padding: 10px;
+}
+nav .navbar-brand{
+    font-weight: bolder;
+}
+.cover{
+    color: darkmagenta;
+}
+.bover{
+    background-color: darkmagenta;
+}
+.over{
+    background-color: darkmagenta;
+    color: white;
+}
+.aone{
+    color: darkmagenta;
+}
+.atwo{
+    color: darkmagenta;
+}
+.athree{
+    color: darkmagenta;
+}
+.afour{
+    color: darkmagenta;
+}
+.afive{
+    color: darkmagenta;
+}
+.max{
+    background-color: darkmagenta;
+    color: white;
+}

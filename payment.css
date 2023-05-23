@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: darkmagenta;
+    padding: 10px;
+}
+nav .navbar-brand{
+    font-weight: bolder;
+}
+.font{
+    color: darkmagenta;
+    text-decoration: none;
+}
